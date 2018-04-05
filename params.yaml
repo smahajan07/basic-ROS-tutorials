@@ -1,0 +1,12 @@
+background_b: 200
+background_g: 200
+background_r: 150
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_darth_vader_home__37371: 'http://darth-vader-home:37371/'}
+rosversion: '1.12.12
+
+  '
+run_id: 907bce14-ff19-11e7-8fba-309c2329167f
